@@ -1,0 +1,77 @@
+body{
+  background: black;
+  font-family: Arial, Helvetica, sans-serif;
+  display: grid;
+}
+
+h1{
+  font-size: 33px;
+  color: white;
+  margin: 30px auto 10px auto;
+  text-align: center;
+}
+
+.container{
+  background: #333;
+  border-radius: 4px;
+  width: 60%;
+  margin: 20px auto 10px auto ;
+  padding: 30px;
+}
+
+.eventoTopo{
+  background: white;
+  margin: 0px;
+  border-radius: 4px;
+  padding: 30px;
+}
+
+ h2{
+  margin: 0px;
+}
+
+.texto{
+  color: rgb(102, 102, 102);
+  font-size: 18px;
+}
+
+
+.evento{
+  background: white;
+  margin-top: 30px;
+  border-radius: 4px;
+  padding: 30px;
+}
+.eventoFinal{
+  background: white;
+  margin-top: 30px;
+  border-radius: 4px;
+  padding: 30px;
+}
+
+.data{
+  color: #ff6400
+}
+
+.local{
+  color: #ff6400;
+}
+
+.botao{
+  background: #d86700;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+}
+
+.rodape p{
+  color: white;
+  text-align: center;
+}
+
+.rodape p a{
+  text-decoration: none;
+  color: rgb(170, 170, 170);
+}
